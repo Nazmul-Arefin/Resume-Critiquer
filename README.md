@@ -1,0 +1,1 @@
+You need to register on OPENAI to get the API KEY. 
