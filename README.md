@@ -8,7 +8,7 @@ An AI-powered tool that analyzes resumes and provides actionable feedback using 
 
 <div align="center">
   <!-- Replace with your demo GIF -->
-  <img src="assets/demo.gif" alt="Resume Critiquer Demo" width="800">
+  <img src="assets/demo.png" alt="Resume Critiquer Demo" width="800">
 </div>
 
 ## ✨ Key Features
