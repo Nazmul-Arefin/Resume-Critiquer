@@ -30,7 +30,7 @@ An AI-powered tool that analyzes resumes and provides actionable feedback using 
 ### Installation
 ```bash
 # Clone repo
-git clone https://github.com/your-username/resume-critiquer.git
+git clone https://github.com/Nazmul-Arefin/Resume-Critiquer
 cd resume-critiquer
 
 # Create virtual environment
